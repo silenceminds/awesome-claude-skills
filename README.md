@@ -4,7 +4,7 @@
 <a href="https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills">
   <img width="1280" height="640" alt="Composio banner" src="https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a">
 </a>
-
+- [TeamOfOne](https://github.com/silenceminds/TeamOfOne) - 790 modular AI agent skills (`SKILL.md`) with a conflict-free 5-stage pipeline for solo founders and one-person companies (CEO, CTO, CMO, CFO, 200 daily web researchers, social/dev monitors, and PDF lead exporters).
 
 </p>
 
