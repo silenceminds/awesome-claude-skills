@@ -337,6 +337,9 @@ Pre-built workflow skills for 78 SaaS apps via [Rube MCP (Composio)](https://com
 
 **Zoom & Meetings**
 - [Zoom Automation](./zoom-automation/) - Automate Zoom: meetings, recordings, participants, webinars, and reports.
+  
+**Solo-Founder**
+- [TeamOfOne](https://github.com/silenceminds/TeamOfOne) - 790 modular AI agent skills (`SKILL.md`) with a conflict-free 5-stage pipeline for solo founders and one-person companies (CEO, CTO, CMO, CFO, 200 daily web researchers, social/dev monitors, and PDF lead exporters).
 
 ## Getting Started
 
